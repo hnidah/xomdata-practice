@@ -1,0 +1,9 @@
+-- Xom Data · Top 5 highest-paid employees
+-- Problem: https://xomdata.com/practice/easy-limit-004
+-- Solved: 2026-09-09
+
+SELECT full_name
+, salaries
+from employees
+order by salaries desc
+limit 5;
