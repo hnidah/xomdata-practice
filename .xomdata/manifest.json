@@ -8,5 +8,11 @@
   "practice/sql/easy/easy-distinct-006/solution.sql": "b5d02eab2782cfd6a64da980770ac3285076b6b3875e8a2313d8ee508b87fb4e",
   "practice/sql/easy/easy-count-001/solution.sql": "06ce7e4d33f228dbd747f1ba9c5688b4b7a87833ca4f9a604b77e2bde2c64e77",
   "practice/sql/easy/easy-sum-001/solution.sql": "94428899e26b6a714a3e2c547c508f9befd7796e41dc4839e396d87713f9c08a",
-  "practice/sql/easy/easy-avg-001/solution.sql": "bb3bc7fa38a8e7421b4e71494739915350d36aec838ab94b5b03671c99fe94bc"
+  "practice/sql/easy/easy-avg-001/solution.sql": "bb3bc7fa38a8e7421b4e71494739915350d36aec838ab94b5b03671c99fe94bc",
+  "practice/sql/easy/easy-isnull-002/solution.sql": "00889ef15f97df2f009f9f042cc20e3c14b0aa689fffecd00ba8ef49dcca84ce",
+  "practice/sql/easy/easy-limit-001/solution.sql": "935b5cf761789dd2180f4f02494c57f0b571f35d51b9c0377a3801cf6b4f2de0",
+  "practice/sql/easy/easy-where-010/solution.sql": "0d83218c2e7a671007621794551aff2ad7cc935520e208bddab4e4c0caf438ac",
+  "practice/sql/easy/easy-select-005/solution.sql": "744b0fe35efe5a0b2b868cd45471adbbbde9395f2544aaa63f4a142b35512247",
+  "practice/sql/easy/easy-limit-004/solution.sql": "4a4a9bed28e4c44ab78bf351996dc9eb5feb5c18971faa1f94318e922e5ee154",
+  "practice/sql/easy/easy-sum-003/solution.sql": "1a0097c778179acb9ed14f80c9bded577ce09e719991cf0bdb54048c617fda14"
 }
