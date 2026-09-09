@@ -4,5 +4,9 @@
   "practice/sql/easy/easy-where-001/solution.sql": "a45545bb6e887f473c31b667a69fb761e1714823100639277dd22548df156c52",
   "practice/sql/easy/easy-like-001/solution.sql": "a8127b5a4bd6ed7ab459e1cd6b63a02e2517a528c9244b7920dfc5186a6d3613",
   "practice/sql/easy/easy-orderby-001/solution.sql": "82fbc3a20144b08cc00fb888c5f29c6f1c81fc5daa755895443cac0b9302361a",
-  "practice/sql/easy/easy-limit-002/solution.sql": "3c25c4880b59284d84e7efc836bcc76e76da9c30c97f8cc1c85c5fe42d72a74d"
+  "practice/sql/easy/easy-limit-002/solution.sql": "3c25c4880b59284d84e7efc836bcc76e76da9c30c97f8cc1c85c5fe42d72a74d",
+  "practice/sql/easy/easy-distinct-006/solution.sql": "b5d02eab2782cfd6a64da980770ac3285076b6b3875e8a2313d8ee508b87fb4e",
+  "practice/sql/easy/easy-count-001/solution.sql": "06ce7e4d33f228dbd747f1ba9c5688b4b7a87833ca4f9a604b77e2bde2c64e77",
+  "practice/sql/easy/easy-sum-001/solution.sql": "94428899e26b6a714a3e2c547c508f9befd7796e41dc4839e396d87713f9c08a",
+  "practice/sql/easy/easy-avg-001/solution.sql": "bb3bc7fa38a8e7421b4e71494739915350d36aec838ab94b5b03671c99fe94bc"
 }

@@ -4,14 +4,18 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 
 <!-- xomdata:stats:start -->
 
-**6** problems solved on [Xom Data](https://xomdata.com/practice).
+**10** problems solved on [Xom Data](https://xomdata.com/practice).
 
 | Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
 |---|:---:|:---:|:---:|:---:|:---:|
-| SQL | 6 | 0 | 0 | 0 | 6 |
+| SQL | 10 | 0 | 0 | 0 | 10 |
 
 **Recently solved**
 
+- [easy-avg-001](https://xomdata.com/practice/easy-avg-001) · Easy · 2026-09-09
+- [easy-sum-001](https://xomdata.com/practice/easy-sum-001) · Easy · 2026-09-09
+- [easy-count-001](https://xomdata.com/practice/easy-count-001) · Easy · 2026-09-09
+- [easy-distinct-006](https://xomdata.com/practice/easy-distinct-006) · Easy · 2026-09-09
 - [easy-limit-002](https://xomdata.com/practice/easy-limit-002) · Easy · 2026-09-09
 - [easy-orderby-001](https://xomdata.com/practice/easy-orderby-001) · Easy · 2026-09-09
 - [easy-like-001](https://xomdata.com/practice/easy-like-001) · Easy · 2026-09-09
@@ -19,7 +23,7 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 - [easy-select-002](https://xomdata.com/practice/easy-select-002) · Easy · 2026-09-09
 - [easy-select-001](https://xomdata.com/practice/easy-select-001) · Easy · 2026-09-09
 
-_Synced 6 solutions · last update 2026-09-09_
+_Synced 10 solutions · last update 2026-09-09_
 
 <!-- xomdata:stats:end -->
 
