@@ -1,1 +1,8 @@
-{}
+{
+  "practice/sql/easy/easy-select-001/solution.sql": "08970e3a44956817f775ac518cf83f75436554f5cb859b6ea9f98003cdb906df",
+  "practice/sql/easy/easy-select-002/solution.sql": "715f83e6d7da4c5fdc8d2f8c775202de97600112ae3aa4112e2a8cd1e5bc36ca",
+  "practice/sql/easy/easy-where-001/solution.sql": "a45545bb6e887f473c31b667a69fb761e1714823100639277dd22548df156c52",
+  "practice/sql/easy/easy-like-001/solution.sql": "a8127b5a4bd6ed7ab459e1cd6b63a02e2517a528c9244b7920dfc5186a6d3613",
+  "practice/sql/easy/easy-orderby-001/solution.sql": "82fbc3a20144b08cc00fb888c5f29c6f1c81fc5daa755895443cac0b9302361a",
+  "practice/sql/easy/easy-limit-002/solution.sql": "3c25c4880b59284d84e7efc836bcc76e76da9c30c97f8cc1c85c5fe42d72a74d"
+}

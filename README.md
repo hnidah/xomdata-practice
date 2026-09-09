@@ -3,7 +3,24 @@
 Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.com/practice).
 
 <!-- xomdata:stats:start -->
-_Not synced yet — connect this repo at [xomdata.com/settings](https://xomdata.com/settings) and hit **Sync**._
+
+**6** problems solved on [Xom Data](https://xomdata.com/practice).
+
+| Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
+|---|:---:|:---:|:---:|:---:|:---:|
+| SQL | 6 | 0 | 0 | 0 | 6 |
+
+**Recently solved**
+
+- [easy-limit-002](https://xomdata.com/practice/easy-limit-002) · Easy · 2026-09-09
+- [easy-orderby-001](https://xomdata.com/practice/easy-orderby-001) · Easy · 2026-09-09
+- [easy-like-001](https://xomdata.com/practice/easy-like-001) · Easy · 2026-09-09
+- [easy-where-001](https://xomdata.com/practice/easy-where-001) · Easy · 2026-09-09
+- [easy-select-002](https://xomdata.com/practice/easy-select-002) · Easy · 2026-09-09
+- [easy-select-001](https://xomdata.com/practice/easy-select-001) · Easy · 2026-09-09
+
+_Synced 6 solutions · last update 2026-09-09_
+
 <!-- xomdata:stats:end -->
 
 ## About this repo
