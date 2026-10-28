@@ -70,5 +70,8 @@
   "practice/sql/easy/easy-sum-005/solution.sql": "cdc82b3f0ba6a57fd0c7f8334aba85e1ea9ba641185b5f119eedf8833139b89b",
   "practice/sql/easy/easy-trim-001/solution.sql": "f499d89b0b3b5e9bab060ff58ba041feae18136d4446ae2809d92d981b42c535",
   "practice/sql/easy/easy-join-004/solution.sql": "da3f0f1ad2feef7a6718bb7515e3f386c053054d7d52ed0945fbd1d281701537",
-  "practice/sql/medium/medium-case-124/solution.sql": "69d8785963e92e515e09266bce4902594e0b9b059fd7e952227a21611ae478d6"
+  "practice/sql/medium/medium-case-124/solution.sql": "69d8785963e92e515e09266bce4902594e0b9b059fd7e952227a21611ae478d6",
+  "practice/sql/medium/medium-having-019/solution.sql": "5296e7f6bdf2bc4791e63b1a49080026b4aa26d72eb9256538f54a280bc2e2dc",
+  "practice/sql/medium/medium-having-128/solution.sql": "13e0d9201d6977ee883c34c64e3486c7c70dcc4ad405ac84e6006caeb1c5a371",
+  "practice/sql/medium/medium-having-162/solution.sql": "f0daefcaf4f896dfa384250c8a969eeea425a277fd3c8e9e12a161378c9f21eb"
 }
