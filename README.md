@@ -4,26 +4,26 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 
 <!-- xomdata:stats:start -->
 
-**96** problems solved on [Xom Data](https://xomdata.com/practice).
+**111** problems solved on [Xom Data](https://xomdata.com/practice).
 
 | Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
 |---|:---:|:---:|:---:|:---:|:---:|
-| SQL | 87 | 9 | 0 | 0 | 96 |
+| SQL | 87 | 24 | 0 | 0 | 111 |
 
 **Recently solved**
 
-- [medium-winagg-010](https://xomdata.com/practice/medium-winagg-010) · Medium · 2026-10-28
-- [medium-winagg-008](https://xomdata.com/practice/medium-winagg-008) · Medium · 2026-10-28
-- [medium-lead-001](https://xomdata.com/practice/medium-lead-001) · Medium · 2026-10-28
-- [medium-active-004](https://xomdata.com/practice/medium-active-004) · Easy · 2026-10-28
-- [medium-churn-002](https://xomdata.com/practice/medium-churn-002) · Easy · 2026-10-28
-- [medium-active-001](https://xomdata.com/practice/medium-active-001) · Easy · 2026-10-28
-- [medium-firstlast-001](https://xomdata.com/practice/medium-firstlast-001) · Easy · 2026-10-28
-- [easy-alias-001](https://xomdata.com/practice/easy-alias-001) · Easy · 2026-10-28
-- [easy-isnull-003](https://xomdata.com/practice/easy-isnull-003) · Easy · 2026-10-28
-- [medium-monetary-002](https://xomdata.com/practice/medium-monetary-002) · Easy · 2026-10-28
+- [medium-winagg-002](https://xomdata.com/practice/medium-winagg-002) · Medium · 2026-10-30
+- [medium-rank-004](https://xomdata.com/practice/medium-rank-004) · Medium · 2026-10-30
+- [medium-winagg-004](https://xomdata.com/practice/medium-winagg-004) · Medium · 2026-10-30
+- [medium-winagg-006](https://xomdata.com/practice/medium-winagg-006) · Medium · 2026-10-30
+- [medium-lag-001](https://xomdata.com/practice/medium-lag-001) · Medium · 2026-10-30
+- [medium-rownum-002](https://xomdata.com/practice/medium-rownum-002) · Medium · 2026-10-30
+- [medium-lag-002](https://xomdata.com/practice/medium-lag-002) · Medium · 2026-10-30
+- [medium-lag-003](https://xomdata.com/practice/medium-lag-003) · Medium · 2026-10-30
+- [medium-winagg-003](https://xomdata.com/practice/medium-winagg-003) · Medium · 2026-10-30
+- [medium-ntile-002](https://xomdata.com/practice/medium-ntile-002) · Medium · 2026-10-30
 
-_Synced 96 solutions · last update 2026-10-28_
+_Synced 111 solutions · last update 2026-10-30_
 
 <!-- xomdata:stats:end -->
 
