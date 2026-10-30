@@ -109,5 +109,7 @@
   "practice/sql/medium/medium-winagg-006/solution.sql": "489229f46df68b2ab3488f90330f2d3995b28eebc3169eded43064ec209e3632",
   "practice/sql/medium/medium-winagg-004/solution.sql": "e9133d954aa0923666690eef5d28d39157fea952dde4874773b80c920770c7ef",
   "practice/sql/medium/medium-rank-004/solution.sql": "7151b9a6e9c428b3d18e2fdd7eb50e2d351db27e244fcd5fba83ad85c4a88878",
-  "practice/sql/medium/medium-winagg-002/solution.sql": "ad0056c78d5f4296c88c4eefe6e56f448dccb95d6a39d2c0646cbfb6ba613eaa"
+  "practice/sql/medium/medium-winagg-002/solution.sql": "ad0056c78d5f4296c88c4eefe6e56f448dccb95d6a39d2c0646cbfb6ba613eaa",
+  "practice/sql/medium/medium-rownum-001/solution.sql": "6f09af13aa7ad918297e52a834f3feced0af9515bc1ccdde921286172a8f99df",
+  "practice/sql/medium/medium-runtotal-001/solution.sql": "c67394a67b7249394292e084683feb0e340b42bfb661b635b1c3f730636bbe2f"
 }

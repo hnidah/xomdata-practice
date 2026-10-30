@@ -4,14 +4,16 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 
 <!-- xomdata:stats:start -->
 
-**111** problems solved on [Xom Data](https://xomdata.com/practice).
+**113** problems solved on [Xom Data](https://xomdata.com/practice).
 
 | Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
 |---|:---:|:---:|:---:|:---:|:---:|
-| SQL | 87 | 24 | 0 | 0 | 111 |
+| SQL | 87 | 26 | 0 | 0 | 113 |
 
 **Recently solved**
 
+- [medium-runtotal-001](https://xomdata.com/practice/medium-runtotal-001) · Medium · 2026-10-30
+- [medium-rownum-001](https://xomdata.com/practice/medium-rownum-001) · Medium · 2026-10-30
 - [medium-winagg-002](https://xomdata.com/practice/medium-winagg-002) · Medium · 2026-10-30
 - [medium-rank-004](https://xomdata.com/practice/medium-rank-004) · Medium · 2026-10-30
 - [medium-winagg-004](https://xomdata.com/practice/medium-winagg-004) · Medium · 2026-10-30
@@ -20,10 +22,8 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 - [medium-rownum-002](https://xomdata.com/practice/medium-rownum-002) · Medium · 2026-10-30
 - [medium-lag-002](https://xomdata.com/practice/medium-lag-002) · Medium · 2026-10-30
 - [medium-lag-003](https://xomdata.com/practice/medium-lag-003) · Medium · 2026-10-30
-- [medium-winagg-003](https://xomdata.com/practice/medium-winagg-003) · Medium · 2026-10-30
-- [medium-ntile-002](https://xomdata.com/practice/medium-ntile-002) · Medium · 2026-10-30
 
-_Synced 111 solutions · last update 2026-10-30_
+_Synced 113 solutions · last update 2026-10-30_
 
 <!-- xomdata:stats:end -->
 
