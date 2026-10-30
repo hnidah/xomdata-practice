@@ -4,26 +4,26 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 
 <!-- xomdata:stats:start -->
 
-**113** problems solved on [Xom Data](https://xomdata.com/practice).
+**123** problems solved on [Xom Data](https://xomdata.com/practice).
 
 | Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
 |---|:---:|:---:|:---:|:---:|:---:|
-| SQL | 87 | 26 | 0 | 0 | 113 |
+| SQL | 87 | 36 | 0 | 0 | 123 |
 
 **Recently solved**
 
-- [medium-runtotal-001](https://xomdata.com/practice/medium-runtotal-001) · Medium · 2026-10-30
-- [medium-rownum-001](https://xomdata.com/practice/medium-rownum-001) · Medium · 2026-10-30
-- [medium-winagg-002](https://xomdata.com/practice/medium-winagg-002) · Medium · 2026-10-30
-- [medium-rank-004](https://xomdata.com/practice/medium-rank-004) · Medium · 2026-10-30
-- [medium-winagg-004](https://xomdata.com/practice/medium-winagg-004) · Medium · 2026-10-30
-- [medium-winagg-006](https://xomdata.com/practice/medium-winagg-006) · Medium · 2026-10-30
-- [medium-lag-001](https://xomdata.com/practice/medium-lag-001) · Medium · 2026-10-30
-- [medium-rownum-002](https://xomdata.com/practice/medium-rownum-002) · Medium · 2026-10-30
-- [medium-lag-002](https://xomdata.com/practice/medium-lag-002) · Medium · 2026-10-30
-- [medium-lag-003](https://xomdata.com/practice/medium-lag-003) · Medium · 2026-10-30
+- [medium-denserank-001](https://xomdata.com/practice/medium-denserank-001) · Medium · 2026-10-30
+- [medium-denserank-003](https://xomdata.com/practice/medium-denserank-003) · Medium · 2026-10-30
+- [medium-runtotal-003](https://xomdata.com/practice/medium-runtotal-003) · Medium · 2026-10-30
+- [medium-firstval-002](https://xomdata.com/practice/medium-firstval-002) · Medium · 2026-10-30
+- [medium-runtotal-002](https://xomdata.com/practice/medium-runtotal-002) · Medium · 2026-10-30
+- [medium-winjoin-002](https://xomdata.com/practice/medium-winjoin-002) · Medium · 2026-10-30
+- [medium-topn-003](https://xomdata.com/practice/medium-topn-003) · Medium · 2026-10-30
+- [medium-rank-002](https://xomdata.com/practice/medium-rank-002) · Medium · 2026-10-30
+- [medium-dedup-002](https://xomdata.com/practice/medium-dedup-002) · Medium · 2026-10-30
+- [medium-winagg-009](https://xomdata.com/practice/medium-winagg-009) · Medium · 2026-10-30
 
-_Synced 113 solutions · last update 2026-10-30_
+_Synced 123 solutions · last update 2026-10-30_
 
 <!-- xomdata:stats:end -->
 
