@@ -121,5 +121,6 @@
   "practice/sql/medium/medium-firstval-002/solution.sql": "938aa598d6988f8f5412517265934955864965d68e237ae9a9700aa3fbf00fbf",
   "practice/sql/medium/medium-runtotal-003/solution.sql": "7a7082f28e91a5d7b8795b423b4604dcdde71488c445e22def0274c491eb81cf",
   "practice/sql/medium/medium-denserank-003/solution.sql": "ef12e7cc3706a9021b3628198a4047485ff2fddd0ada560f2708166a583e2fdb",
-  "practice/sql/medium/medium-denserank-001/solution.sql": "4f3154dc21a33aa5c12bc99e20e73dd6075bd7efb23c04a034cefb7fb77cf3ca"
+  "practice/sql/medium/medium-denserank-001/solution.sql": "4f3154dc21a33aa5c12bc99e20e73dd6075bd7efb23c04a034cefb7fb77cf3ca",
+  "practice/sql/medium/medium-dedup-001/solution.sql": "9241c60cdebf78d98299f23d733d97b38c23228ae4baa529e2dcaf9f7d4ac17e"
 }
