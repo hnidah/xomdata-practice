@@ -129,5 +129,8 @@
   "practice/sql/medium/medium-winjoin-004/solution.sql": "188c730b1225bcddad6155535dfdb0405da00880f4c9fe7680ea6efbd20a0d6f",
   "practice/sql/medium/medium-firstval-001/solution.sql": "2307c636687000f8971afe47bb18f378d21b771281d188d38e5ef4b859bfedbd",
   "practice/sql/medium/medium-denserank-002/solution.sql": "083d4df149fab21352b68cab3403740350a59f66dae00103424d37c02859851a",
-  "practice/sql/medium/medium-rownum-003/solution.sql": "ca94b484f9ff0173359ac74aeff813f99ca6b0b279409e9841d3a4d42e6d56e2"
+  "practice/sql/medium/medium-rownum-003/solution.sql": "ca94b484f9ff0173359ac74aeff813f99ca6b0b279409e9841d3a4d42e6d56e2",
+  "practice/sql/medium/medium-winjoin-001/solution.sql": "0b9eaad27fdaa4399f2a70b1bdfe2b51df2a681440cd33ead8cd007ebed489a7",
+  "practice/sql/medium/medium-dedup-003/solution.sql": "a37e7d9f21cfc3af61f138204ddfee026f45784b46319b1f64726039ee026153",
+  "practice/sql/medium/medium-join-126/solution.sql": "869d440da48fbaf10a3b43fcee9d7adb36371c7a174e4504f7832424d7343737"
 }
