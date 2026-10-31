@@ -4,26 +4,26 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 
 <!-- xomdata:stats:start -->
 
-**124** problems solved on [Xom Data](https://xomdata.com/practice).
+**131** problems solved on [Xom Data](https://xomdata.com/practice).
 
 | Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
 |---|:---:|:---:|:---:|:---:|:---:|
-| SQL | 87 | 37 | 0 | 0 | 124 |
+| SQL | 87 | 44 | 0 | 0 | 131 |
 
 **Recently solved**
 
+- [medium-rownum-003](https://xomdata.com/practice/medium-rownum-003) · Medium · 2026-10-31
+- [medium-denserank-002](https://xomdata.com/practice/medium-denserank-002) · Medium · 2026-10-31
+- [medium-firstval-001](https://xomdata.com/practice/medium-firstval-001) · Medium · 2026-10-31
+- [medium-winjoin-004](https://xomdata.com/practice/medium-winjoin-004) · Medium · 2026-10-31
+- [medium-ntile-001](https://xomdata.com/practice/medium-ntile-001) · Medium · 2026-10-31
+- [medium-rank-001](https://xomdata.com/practice/medium-rank-001) · Medium · 2026-10-31
+- [medium-cohort-002](https://xomdata.com/practice/medium-cohort-002) · Medium · 2026-10-31
 - [medium-dedup-001](https://xomdata.com/practice/medium-dedup-001) · Medium · 2026-10-31
 - [medium-denserank-001](https://xomdata.com/practice/medium-denserank-001) · Medium · 2026-10-30
 - [medium-denserank-003](https://xomdata.com/practice/medium-denserank-003) · Medium · 2026-10-30
-- [medium-runtotal-003](https://xomdata.com/practice/medium-runtotal-003) · Medium · 2026-10-30
-- [medium-firstval-002](https://xomdata.com/practice/medium-firstval-002) · Medium · 2026-10-30
-- [medium-runtotal-002](https://xomdata.com/practice/medium-runtotal-002) · Medium · 2026-10-30
-- [medium-winjoin-002](https://xomdata.com/practice/medium-winjoin-002) · Medium · 2026-10-30
-- [medium-topn-003](https://xomdata.com/practice/medium-topn-003) · Medium · 2026-10-30
-- [medium-rank-002](https://xomdata.com/practice/medium-rank-002) · Medium · 2026-10-30
-- [medium-dedup-002](https://xomdata.com/practice/medium-dedup-002) · Medium · 2026-10-30
 
-_Synced 124 solutions · last update 2026-10-31_
+_Synced 131 solutions · last update 2026-10-31_
 
 <!-- xomdata:stats:end -->
 

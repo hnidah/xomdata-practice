@@ -122,5 +122,12 @@
   "practice/sql/medium/medium-runtotal-003/solution.sql": "7a7082f28e91a5d7b8795b423b4604dcdde71488c445e22def0274c491eb81cf",
   "practice/sql/medium/medium-denserank-003/solution.sql": "ef12e7cc3706a9021b3628198a4047485ff2fddd0ada560f2708166a583e2fdb",
   "practice/sql/medium/medium-denserank-001/solution.sql": "4f3154dc21a33aa5c12bc99e20e73dd6075bd7efb23c04a034cefb7fb77cf3ca",
-  "practice/sql/medium/medium-dedup-001/solution.sql": "9241c60cdebf78d98299f23d733d97b38c23228ae4baa529e2dcaf9f7d4ac17e"
+  "practice/sql/medium/medium-dedup-001/solution.sql": "9241c60cdebf78d98299f23d733d97b38c23228ae4baa529e2dcaf9f7d4ac17e",
+  "practice/sql/medium/medium-cohort-002/solution.sql": "d130a907146e22305448d8196cb3c4967f71ec8be9f03fe73a167cf3302140fb",
+  "practice/sql/medium/medium-rank-001/solution.sql": "b56837b219788934d45ed287c0a11a21e7e38b68ca491d5b5e60a6178b23fbb9",
+  "practice/sql/medium/medium-ntile-001/solution.sql": "b14a581e9d4a7c4929ed0a99466dcfa78a22afe00df53d11420c30e6d59125e7",
+  "practice/sql/medium/medium-winjoin-004/solution.sql": "188c730b1225bcddad6155535dfdb0405da00880f4c9fe7680ea6efbd20a0d6f",
+  "practice/sql/medium/medium-firstval-001/solution.sql": "2307c636687000f8971afe47bb18f378d21b771281d188d38e5ef4b859bfedbd",
+  "practice/sql/medium/medium-denserank-002/solution.sql": "083d4df149fab21352b68cab3403740350a59f66dae00103424d37c02859851a",
+  "practice/sql/medium/medium-rownum-003/solution.sql": "ca94b484f9ff0173359ac74aeff813f99ca6b0b279409e9841d3a4d42e6d56e2"
 }
