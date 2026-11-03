@@ -139,5 +139,6 @@
   "practice/sql/medium/medium-winjoin-003/solution.sql": "090c961a7ebc837daa564b77f2e334cf94a32d13f5986d1fa4d25bdafa987993",
   "practice/sql/medium/medium-topn-001/solution.sql": "c9b2b903d233dab2a3cb02bd77607909e5f772f19b84f035c1b6f93eec1c83c7",
   "practice/sql/medium/medium-join-076/solution.sql": "35b20aba3b8f126df3a28325eaf9188a0a64ccd26474b1ab2f53355eae2a0f3d",
-  "practice/sql/medium/medium-join-155/solution.sql": "d202a4c88d172764e6fb997028eade3cc40d5cd74d913b47f1ba4e98e5288743"
+  "practice/sql/medium/medium-join-155/solution.sql": "d202a4c88d172764e6fb997028eade3cc40d5cd74d913b47f1ba4e98e5288743",
+  "practice/sql/medium/medium-subquery-198/solution.sql": "18d942bc26442222a3f99afda7d9ba69208cca76565b03c662c3bdd8dac74ed1"
 }
