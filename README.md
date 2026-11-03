@@ -4,14 +4,16 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 
 <!-- xomdata:stats:start -->
 
-**139** problems solved on [Xom Data](https://xomdata.com/practice).
+**141** problems solved on [Xom Data](https://xomdata.com/practice).
 
 | Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
 |---|:---:|:---:|:---:|:---:|:---:|
-| SQL | 87 | 52 | 0 | 0 | 139 |
+| SQL | 87 | 54 | 0 | 0 | 141 |
 
 **Recently solved**
 
+- [medium-join-155](https://xomdata.com/practice/medium-join-155) · Medium · 2026-11-03
+- [medium-join-076](https://xomdata.com/practice/medium-join-076) · Medium · 2026-11-01
 - [medium-topn-001](https://xomdata.com/practice/medium-topn-001) · Medium · 2026-11-01
 - [medium-winjoin-003](https://xomdata.com/practice/medium-winjoin-003) · Medium · 2026-11-01
 - [medium-leftjoin-096](https://xomdata.com/practice/medium-leftjoin-096) · Medium · 2026-11-01
@@ -20,10 +22,8 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 - [medium-join-126](https://xomdata.com/practice/medium-join-126) · Medium · 2026-10-31
 - [medium-dedup-003](https://xomdata.com/practice/medium-dedup-003) · Medium · 2026-10-31
 - [medium-winjoin-001](https://xomdata.com/practice/medium-winjoin-001) · Medium · 2026-10-31
-- [medium-rownum-003](https://xomdata.com/practice/medium-rownum-003) · Medium · 2026-10-31
-- [medium-denserank-002](https://xomdata.com/practice/medium-denserank-002) · Medium · 2026-10-31
 
-_Synced 139 solutions · last update 2026-11-01_
+_Synced 141 solutions · last update 2026-11-03_
 
 <!-- xomdata:stats:end -->
 
