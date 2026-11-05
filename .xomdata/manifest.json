@@ -149,5 +149,7 @@
   "practice/sql/easy/medium-active-002/solution.sql": "1c85945cd49d5f4eb0a37025ec2c0e568a6047c41026061ce6c5c4fa60ed9eee",
   "practice/sql/medium/medium-churn-003/solution.sql": "e1afab4399bd2100e85a2917ea8e23631ba85163b2b72ca8883815f382455679",
   "practice/sql/hard/hard-rfm-004/solution.sql": "9ab06b3ca4cb063917c1220bac247b5e631c7ffe2de3bf6ddc45481b41fef0d0",
-  "practice/sql/hard/hard-anti-001/solution.sql": "63051b8edfa812114f22fe958ed693b67193fa6616d6a98faf23cb07cc6b9e86"
+  "practice/sql/hard/hard-anti-001/solution.sql": "63051b8edfa812114f22fe958ed693b67193fa6616d6a98faf23cb07cc6b9e86",
+  "practice/sql/medium/medium-union-175/solution.sql": "dd5d2edc8c4f1a671e002509291b358e09672ff66731016bae9eff464245f644",
+  "practice/sql/medium/medium-subquery-103/solution.sql": "312586ec94ec7160da8a79a112741f3d0f39a54f8c21aa63fc72dbbf4d62ef66"
 }
