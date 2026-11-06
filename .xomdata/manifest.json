@@ -152,5 +152,7 @@
   "practice/sql/hard/hard-anti-001/solution.sql": "63051b8edfa812114f22fe958ed693b67193fa6616d6a98faf23cb07cc6b9e86",
   "practice/sql/medium/medium-union-175/solution.sql": "dd5d2edc8c4f1a671e002509291b358e09672ff66731016bae9eff464245f644",
   "practice/sql/medium/medium-subquery-103/solution.sql": "312586ec94ec7160da8a79a112741f3d0f39a54f8c21aa63fc72dbbf4d62ef66",
-  "practice/sql/medium/medium-groupby-027/solution.sql": "e5a18a5624caa19bb2c7ab341ad297c8ad134e26639823b0775073f523859c52"
+  "practice/sql/medium/medium-groupby-027/solution.sql": "e5a18a5624caa19bb2c7ab341ad297c8ad134e26639823b0775073f523859c52",
+  "practice/sql/medium/medium-datefunction-045/solution.sql": "01c30a64c6b5191c5203e62f10127e5bfe559c4d2fc27d9e0b95a30e404c2308",
+  "practice/sql/medium/medium-coalesce-040/solution.sql": "911558aea6082680df198ddd708af0e736abdc6491f1cc6386f31e0f9ea41723"
 }
